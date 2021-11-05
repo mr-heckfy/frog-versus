@@ -35,5 +35,10 @@
         height: 30%;
     }
 
-
+    .underBody-img {
+        width: 100%;
+    }
+    .underBody-img__right {
+        width: 100%;
+    }
 }
