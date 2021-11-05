@@ -1,0 +1,38 @@
+
+.download-div {
+    width: 100%;
+    height: 200px;
+    margin: 10px;
+}
+
+.download {
+    display: flex;
+    width: 300px;
+    height: 40px;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(77, 170, 100);
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.download-text {
+    color: rgb(255, 255, 255);
+    margin: auto;
+    font-size: 16px;
+    font-family: Arial Black, Helvetica, sans-serif;
+}
+
+.download-windows {
+    top: 1000px;
+}
+.download-macos {
+
+}
+.download-linux {
+
+}
+
+.download-img {
+    position: -webkit-sticky;
+}
