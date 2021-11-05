@@ -17,6 +17,10 @@
         top: 30px;
         left: 80%;
     }
+    .menu-link {
+        font-size: 200%;
+    }
+
     .body {
         height: 2000px;
         width: 100%;
@@ -24,14 +28,14 @@
     .underBody {
         margin: 50px;
         background-color: rgb(30, 165, 64);
-        height: 2500px;
+        height: 1000px;
     }
     .body {
         height: 500%;
     }
     .iframe {
-        margin: 30px;
-        width: 90%;
+        margin: 1px;
+        width: 95%;
         height: 30%;
     }
 
